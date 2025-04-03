@@ -1,0 +1,81 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 rogawa
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see https://www.gnu.org/licenses/.
+
+---------------------------------------------------
+
+**Source Code**
+The source code for this program is available at:
+https://github.com/rogawa14/yt-dlp_gui
+
+---------------------------------------------------
+
+**ffmpeg License**
+This program includes **ffmpeg**, an open-source software licensed under the
+GNU General Public License (GPL).
+
+- The ffmpeg source code can be obtained from:
+  https://ffmpeg.org/download.html
+- License details for ffmpeg are available at:
+  https://ffmpeg.org/legal.html
+- The version of ffmpeg included in this program is **GPL-compliant**.
+
+**Note:** When distributing this program, you must also comply with the ffmpeg GPL license terms.
+
+---------------------------------------------------
+
+【日本語訳】
+
+GNU 一般公衆利用許諾書
+第3版, 2007年6月29日
+
+Copyright (C) 2025 rogawa
+このライセンス文書の逐語的なコピーおよび配布は、誰にでも許可されていますが、変更することはできません。
+
+前文
+
+このプログラムはフリーソフトウェアであり、GNU 一般公衆利用許諾書 (GNU General Public License) のもとで
+再配布および改変が可能です。ライセンスのバージョンは、フリーソフトウェア財団が公表する第3版、
+または（あなたの選択により）それ以降のバージョンのいずれかを適用できます。
+
+このプログラムは有用であることを願って配布されますが、いかなる保証も伴いません。
+商品性や特定の目的への適合性についての暗黙の保証もありません。詳細については、
+GNU 一般公衆利用許諾書を参照してください。
+
+---------------------------------------------------
+
+**ソースコードの提供**
+本プログラムのソースコードは以下の URL で公開されています：
+https://github.com/rogawa14/yt-dlp_gui
+
+---------------------------------------------------
+
+**ffmpeg のライセンスについて**
+本プログラムには **ffmpeg** というオープンソースのソフトウェアが含まれています。
+ffmpeg は **GNU General Public License (GPL)** のもとで提供されています。
+
+- ffmpeg のソースコードは以下のリンクから取得できます：
+  https://ffmpeg.org/download.html
+- ffmpeg のライセンス情報は以下を参照してください：
+  https://ffmpeg.org/legal.html
+- 本プログラムに含まれている ffmpeg は **GPL 準拠のビルド** です。
+
+本プログラムを配布する際には、ffmpeg の GPL ライセンス条件にも従う必要があります。
